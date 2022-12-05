@@ -4,4 +4,6 @@ class FirstJob < ApplicationJob
   def perform(*args)
     puts "welcome to ujjain"
   end
+
+  just go there
 end
